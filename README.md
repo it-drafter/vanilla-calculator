@@ -10,7 +10,7 @@ You can try it out [HERE](http://drafter.atwebpages.com/vanilla-calculator/).
 
 ## Run Locally
 
-Download .zip with all included files and folders, or clone the project:
+Download .zip with all included files and folders, or clone the project instead:
 
 ```bash
   git clone https://github.com/it-drafter/vanilla-calculator.git
