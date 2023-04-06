@@ -1,6 +1,6 @@
 # Vanilla Calculator
 
-A plain Vanilla JavaScript, HTML & CSS calculator.
+A responsive plain Vanilla JavaScript, HTML & CSS calculator.
 
 The idea here was to avoid using the JS eval() method at all costs, and this is the solution I came up with.
 
