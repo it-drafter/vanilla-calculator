@@ -6,7 +6,7 @@ The idea here was to avoid using the JS eval() method at all costs, and this is 
 
 ## Demo
 
-You can try it out [HERE](http://drafter.atwebpages.com/vanilla-calculator/).
+You can try it out [HERE](https://it-drafter.github.io/vanilla-calculator/).
 
 ## Run Locally
 
